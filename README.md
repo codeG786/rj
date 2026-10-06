@@ -166,5 +166,88 @@ CSS3
 JavaScript
 React
 Bootstrap
+
+⚙️ Backend
+PHP
+Laravel
+Node.js
+Express.js
+REST API
+
+
+🗄️ Database
+MySQL
+MongoDB
+SQL
+
+🐍 Python & Data
+Python
+NumPy
+Pandas
+Data Pre-processing
+Data Visualization
+Statistics
+Probability
+
+
+🤖 Machine Learning
+Machine Learning
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Regression
+Classification
+Logistic Regression
+SVM
+Decision Tree
+K-Means
+Precision
+Recall
+F1 Score
+Bias / Variance
+
+🧠 Deep Learning
+Perceptron
+FNN
+CNN
+RNN
+Deep Learning
+Transformers
+TensorFlow
+GAN
+
+
+✨ Modern AI
+Generative AI
+LLMs
+NLP
+RAG
+OpenAI APIs
+
+🚀 AI Development & Deployment
+Flask
+Git
+GitHub
+Docker
+Kubernetes
+AI Projects
+
+
+🔧 Tools & CMS
+WordPress
+Git
+GitHub
+VS Code
+Adobe Photoshop
+Adobe XD
+CorelDRAW
+
+📦 MERN Stack
+MongoDB
+Express.js
+React.js
+Node.js
+REST API
+Full Stack Applications
 Tailwind CSS
 GSAP
